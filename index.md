@@ -4,7 +4,7 @@ layout: default
 
 ### About me
 
-I am a Particle Physics experimentalist at [LIP](https://www.lip.pt/) in Lisbon and a member of the [ATLAS](https://atlas.cern/) Collaboration, [CERN](https://cern.ch/). I obtained my PhD in 2017, from the University of Lisbon, searching for Higgs boson decays into b-quarks with the ATLAS/LHC experiment, enhancing signal sensitivity with Machine Learning. Currently, I am working on Deep Learning models for generic searches for new physics at colliders, which I apply to Anomaly Detection searches with ATLAS data. In parallel, I contribute to the ATLAS Tile hadronic calorimeter Calibration and Performance studies. This work led me to investigate new scintillating materials and calorimeter designs for future collider experiments, namely the FCC.
+I am a Particle Physics experimentalist at [LIP](https://www.lip.pt/) in Lisbon and a member of the [ATLAS](https://atlas.cern/) Collaboration, [CERN](https://cern.ch/). I obtained my PhD in 2017 from the University of Lisbon, searching for Higgs boson decays into b-quarks with the ATLAS/[LHC](https://home.cern/science/accelerators/large-hadron-collider) experiment, enhancing signal sensitivity with Machine Learning. Currently, I am working on Deep Learning models for generic searches for new physics at colliders, which I apply to Anomaly Detection searches with ATLAS data. In parallel, I contribute to the ATLAS Tile hadronic calorimeter Calibration, Performance studies and Data Quality assessment. This work led me to investigate new scintillating materials and calorimeter designs for future collider experiments, namely the [FCC](https://fcc.web.cern.ch), in the context of the DRD-on-Calorimetry Collaboration.
 
 ### Teaching and Outreach
 
