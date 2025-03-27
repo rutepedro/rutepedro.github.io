@@ -1,0 +1,14 @@
+# Site settings
+title: Rute Pedro
+tag_text: Rute Pedro
+description: ...
+
+domain: rutepedro.github.io      
+url: https://rutepedro.github.io 
+
+# Build settings
+markdown: kramdown
+#markdown: redcarpet
+exclude: ["README.md"]
+sass:
+  style: compressed
