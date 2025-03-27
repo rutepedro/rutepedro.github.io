@@ -6,8 +6,17 @@ layout: default
 
 I am a Particle Physics experimentalist at [LIP](https://www.lip.pt/) in Lisbon and a member of the [ATLAS](https://atlas.cern/) Collaboration, [CERN](https://cern.ch/). I obtained my PhD in 2017, from the University of Lisbon, searching for Higgs boson decays into b-quarks with the ATLAS/LHC experiment, enhancing signal sensitivity with Machine Learning. Currently, I am working on Deep Learning models for generic searches for new physics at colliders, which I apply to Anomaly Detection searches with ATLAS data. In parallel, I contribute to the ATLAS Tile hadronic calorimeter Calibration and Performance studies. This work led me to investigate new scintillating materials and calorimeter designs for future collider experiments, namely the FCC.
 
-### Scintillator R&D at ['90s de Ciência/Antena 1 - RTP'](https://www.rtp.pt/play/p2936/e665190/90-segundos-ciencia)
+### Teaching and Outreach
+
 <img src="./IMG_2012.jpg" width="300">
+
+ - Invited Professor at [IST](https://tecnico.ulisboa.pt/pt/)
+ - [CERN's International Masterclasses](https://ippog.org/imc-international-masterclasses)
+ - [European Researchers' Night](https://noitedosinvestigadores.org)
+ - [CERN National Teacher Programme](https://teachers.cern/national-teacher-programmes)
+ - Scintillator R&D at ['90s de Ciência/Antena 1 - RTP'](https://www.rtp.pt/play/p2936/e665190/90-segundos-ciencia)
+
+
 
 ### Selected Publications
 1. B. Pereira, R. Pedro et al, Study of the Radiation Hardness of the ATLAS Tile Calorimeter Optical Instrumentation with Run 2 data, [arxiv:2412.15944 (sub. to JINST)](https://arxiv.org/pdf/2412.15944) 
